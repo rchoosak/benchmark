@@ -7,6 +7,9 @@ echo -e "####################################"
 echo -e "\nNODE: \n" && time node ./code.js
 
 # echo -e "####################################"
+# echo -e "\nRUST: \n" && time ./out/code.rs.bin
+
+# echo -e "####################################"
 # echo -e "\nJAVA: \n" && time java code
 
 # echo -e "####################################"
